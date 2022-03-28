@@ -51,7 +51,6 @@ body{
 
 .container__botao:hover {
     background-color: var(--botao-azul-efeito);
-    color: var(--cor-de-fundo);
     border-color: var(--botao-azul-efeito);
 }
 
